@@ -1,0 +1,150 @@
+h2{
+    color:green;
+}
+#container{
+    margin-top:15px;
+    margin-left:3%;
+    margin-right:5%;
+    /*border: 1px solid black;*/
+    height:93%;
+    width:95%;
+    float:left;
+}
+#left{
+    height:100%;
+    width:75%;
+    float:left;
+     /*border: 2px solid green;*/
+}
+#right{
+
+    height:100%;
+    width:24%;
+    float:left;
+     /*border: 1px solid blue;*/
+}
+.box img{
+    width:100%;
+    height: 70%;
+}
+#banner{
+     /*border: 1px solid grey;*/
+    height:65%;
+    width:98%;
+    float:left;
+    margin-bottom : 15px;
+    margin-right:15px;
+}
+.box {
+
+    height:30%;
+    width:24%;
+    float:left;
+    margin-right: 3px;
+    opacity:0.8;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size:12px;
+}
+.box1 {
+     /*border: 1px solid grey;*/
+    height:30%;
+    width:98%;
+    float:left;
+    margin-right: 3px;
+    margin-bottom:15px;
+    background-color:wheat;
+    opacity: 0.7;
+    font-family: Verdana, Geneva, sans-serif;
+        font-size:12px;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      height:100%;
+  }
+  .carousel-inner{
+      height:100%;
+        /*border: 1px solid black;*/
+  }
+  
+.carousel-indicators .active {
+    background-color: orange !important;
+}
+.carousel-indicators li {
+        display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color:white !important ;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+.box1 span{
+    height:80%;
+    float:left;
+    width:99%;
+}
+.box1 img{
+    padding-top:5%;
+    height:85%;
+}
+.link{
+    padding:1%;
+  
+    width:100%;
+    float:left;
+    height:20%;
+      /*border:1px solid black;*/
+}
+.link a{
+    color:white;
+}
+.link a:hover{
+    color:white;
+    text-decoration: none;
+}
+.link img{
+    
+    margin-top:-5%;
+    margin-left:15%;
+  height:100%;
+}
+.link2{
+    border:1px solid grey;
+}
+.link2 a{
+    margin-left:7%;
+    width:80%;
+    color: maroon;
+}
+.link2 a:hover{
+    color: maroon;
+    text-decoration: none;
+}
+.link2 img{
+    
+      width:6%;
+      height:10%;
+      margin-left:30%;
+}
+.link2 img {
+        visibility: 50%;
+      width:6%;
+      height:10%;
+      margin-left:30%;
+}
+.box:hover {
+    opacity: 1.2;
+}
+.box1:hover {
+    opacity: 1;
+}
+.text{
+    color: maroon;
+      margin-top:15%;
+      width:60%;
+      float:right;
+      font-size:14px;
+          font-family: Verdana, Geneva, sans-serif;
+}
